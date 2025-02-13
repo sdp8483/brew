@@ -3,12 +3,21 @@
 */
 $fn = $preview ? 25:100;
 
+// 1 Gallon Carboy
+bottle_neck_od = 130;
+bottle_neck_length = 95;
+radial_top_wall_thickness = 3;
+radial_bottom_wall_thickness = 12;
+stand_length = 5;
+
+/*
 // 1 liter EZ Cap Bottle
 bottle_neck_od = 59;
 bottle_neck_length = 120;
 radial_top_wall_thickness = 3;
 radial_bottom_wall_thickness = 12;
 stand_length = 5;
+*/
 
 /*
 // 16 oz Estilo Swing Top Bottle
